@@ -4,6 +4,7 @@ Compétences exercé graçe au projet :
 
 Outils / langages / framworks / librairies
 - Utilisation du framwork React avec Vite
+- Utilisation de TypeScript
 - CORS
 - Utilisation de Tailwindcss
 - Utilisation de Mangodb compas
